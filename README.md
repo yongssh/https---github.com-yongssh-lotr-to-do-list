@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# A LOTR-Themed To-Do List
+
+A LOTR-Themed To-Do List with edit, delete, and complete functionalities. 
+
+There is a "# Completed Heading" and inspirational quotes included based on how many tasks have been completed. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
