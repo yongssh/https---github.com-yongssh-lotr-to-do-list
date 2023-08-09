@@ -6,9 +6,7 @@ There is a "# Completed Heading" and inspirational quotes included based on how 
 
 
 
-https://github.com/yongssh/lotr-to-do-list/assets/115194864/a763b04c-2787-4cf8-a28e-579c92428cc8
-
-
+https://github.com/yongssh/lotr-to-do-list/assets/115194864/0eccc804-f733-42f4-bfb8-9ced4692770b
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
