@@ -4,6 +4,13 @@ A LOTR-Themed To-Do List with edit, delete, and complete functionalities.
 
 There is a "# Completed Heading" and inspirational quotes included based on how many tasks have been completed. 
 
+
+
+https://github.com/yongssh/lotr-to-do-list/assets/115194864/a763b04c-2787-4cf8-a28e-579c92428cc8
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
